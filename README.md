@@ -2,7 +2,7 @@
 
 ## :rocket: Sobre o desafio
 
-Essa será uma aplicação para armazenar transações financeiras de entrada e saída em um Banco de Dados Relacional(typeorm), um upgrade em relação ao desafio anterior. Além disso, o serviço deve permitir o cadastro, a listagem dessas transações e importar novos dados a partir de um arquivo CSV.
+Essa será uma aplicação para armazenar transações financeiras de entrada e saída em um Banco de Dados Relacional(Postgres com typeorm), um upgrade em relação ao desafio anterior. Além disso, o serviço deve permitir o cadastro, a listagem dessas transações e importar novos dados a partir de um arquivo CSV.
 
 ### Rotas da aplicação
 
@@ -138,4 +138,3 @@ Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o lin
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-# 4th chalenge complete ![complete](https://camo.githubusercontent.com/facfcb6afd684d2c9701c7d6add65f391fdf86fc/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6477796c2f686170692d617574682d6a7774322e7376673f6d61784167653d32353932303030)
